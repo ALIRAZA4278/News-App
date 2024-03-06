@@ -7,7 +7,7 @@
   "scope": "/",
   "short_name": "News-app",
   "start_url": "/",
-  "theme_color": "#2c69a3",
+  "theme_color": "#616161",
   "description": "This app is created by Ali Raza",
   "display_override": ["window-controls-overlay"],
   "icons": [
