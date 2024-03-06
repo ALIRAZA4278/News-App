@@ -1,5 +1,5 @@
 {
-  "background_color": "#000000",
+  "background_color": " #4096e9",
   "dir": "ltr",
   "display": "minimal-ui",
   "name": "news-app by Ali",
@@ -7,7 +7,7 @@
   "scope": "/",
   "short_name": "News-app",
   "start_url": "/",
-  "theme_color": "#4096e9",
+  "theme_color": "#000000",
   "description": "This app is created by Ali Raza",
   "display_override": ["fullscreen", "minimal-ui", "window-controls-overlay"],
   "icons": [
